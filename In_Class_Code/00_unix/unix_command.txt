@@ -27,3 +27,7 @@ return 0 - exits the main function.
 Steps to make new file - 1: mkdir <folder name>
 2: cd <folder name>
 3: code <file name.c>
+
+scanf("") - DONT PUT MESSAGES ONLY CONVERSION SPECIFIERS
+
+& - address operator
